@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|c:\\users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\backgrounds.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|solutionrelative:css-1\\wwwroot\\html\\backgrounds.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|c:\\users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|solutionrelative:css-1\\wwwroot\\html\\links.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|c:\\users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|solutionrelative:css-1\\wwwroot\\html\\colors.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|c:\\users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\classses_and_ids.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7CE89228-2198-45CC-B465-D8A9F5D7F521}|css-1\\css-1.csproj|solutionrelative:css-1\\wwwroot\\html\\classses_and_ids.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "links.html",
+              "DocumentMoniker": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\links.html",
+              "RelativeDocumentMoniker": "css-1\\wwwroot\\html\\links.html",
+              "ToolTip": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\links.html",
+              "RelativeToolTip": "css-1\\wwwroot\\html\\links.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T16:40:42.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "backgrounds.html",
+              "DocumentMoniker": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\backgrounds.html",
+              "RelativeDocumentMoniker": "css-1\\wwwroot\\html\\backgrounds.html",
+              "ToolTip": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\backgrounds.html",
+              "RelativeToolTip": "css-1\\wwwroot\\html\\backgrounds.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-11T16:12:07.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "colors.html",
+              "DocumentMoniker": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\colors.html",
+              "RelativeDocumentMoniker": "css-1\\wwwroot\\html\\colors.html",
+              "ToolTip": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\colors.html",
+              "RelativeToolTip": "css-1\\wwwroot\\html\\colors.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T07:29:32.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "classses_and_ids.html",
+              "DocumentMoniker": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\classses_and_ids.html",
+              "RelativeDocumentMoniker": "css-1\\wwwroot\\html\\classses_and_ids.html",
+              "ToolTip": "C:\\Users\\erlichma\\html-course\\css-session-1\\css-1\\css-1\\wwwroot\\html\\classses_and_ids.html",
+              "RelativeToolTip": "css-1\\wwwroot\\html\\classses_and_ids.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-05T07:05:34.771Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"

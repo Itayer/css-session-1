@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("css-1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e553f25399e61411daccbd915ca7e55a00709de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("css-1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("css-1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
